@@ -1,0 +1,17 @@
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.GeneratedMSBuildEditorConfig.editorconfig
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.AssemblyInfoInputs.cache
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.AssemblyInfo.cs
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.csproj.CoreCompileInputs.cache
+C:\ConsumingExternalApis\bin\Debug\net7.0\ConsumingExternalApis.exe
+C:\ConsumingExternalApis\bin\Debug\net7.0\ConsumingExternalApis.deps.json
+C:\ConsumingExternalApis\bin\Debug\net7.0\ConsumingExternalApis.runtimeconfig.json
+C:\ConsumingExternalApis\bin\Debug\net7.0\ConsumingExternalApis.dll
+C:\ConsumingExternalApis\bin\Debug\net7.0\ConsumingExternalApis.pdb
+C:\ConsumingExternalApis\bin\Debug\net7.0\Refit.dll
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.csproj.AssemblyReference.cache
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.csproj.CopyComplete
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.dll
+C:\ConsumingExternalApis\obj\Debug\net7.0\refint\ConsumingExternalApis.dll
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.pdb
+C:\ConsumingExternalApis\obj\Debug\net7.0\ConsumingExternalApis.genruntimeconfig.cache
+C:\ConsumingExternalApis\obj\Debug\net7.0\ref\ConsumingExternalApis.dll

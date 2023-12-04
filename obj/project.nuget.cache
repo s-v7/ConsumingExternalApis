@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q2+OrUiBL/WsXvgRCjXtVyzZvnHiCgSIl/3b0NNQN6nWbRAftI/KLRte87Yoh9kr3/9+38Uo84OUsclNv34k6w==",
+  "success": true,
+  "projectFilePath": "C:\\ConsumingExternalApis\\ConsumingExternalApis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\svasconcelos\\.nuget\\packages\\refit\\7.0.0\\refit.7.0.0.nupkg.sha512",
+    "C:\\Users\\svasconcelos\\.nuget\\packages\\system.net.http.json\\7.0.1\\system.net.http.json.7.0.1.nupkg.sha512",
+    "C:\\Users\\svasconcelos\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\svasconcelos\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
